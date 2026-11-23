@@ -24,9 +24,8 @@ This repository is intended to facilitate collaboration and knowledge-sharing be
 
 ## Emulation & Recompilation Research
 
-The [OoT Remake Emulation & Recompilation Research](https://github.com/vgdevz/oot-remake-emulation-and-recomp-research) repository serves as a shared workspace for research, documentation, resources, and development efforts related to emulation and recompilation of the Ocarina of Time remake.
+The [OoT Remake Emulation & Recompilation Research](https://github.com/OoT-Remake-Development-Resources/oot-remake-recomp-and-emulation-resources) repository serves as a shared workspace for research, documentation, resources, and development efforts related to emulation and recompilation of the Ocarina of Time remake.
 
-- [Emulation & Recompilation Research](https://github.com/YOUR-ORG/oot-remake-emulation-research)
 
 ## Contributing
 
