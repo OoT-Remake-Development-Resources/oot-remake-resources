@@ -1,4 +1,5 @@
 # oot-remake-resources
+
 # OoT Remake Development Resources
 
 A collaborative hub for research, documentation, tools, modding, mapping, and development projects related to the Ocarina of Time remake.
