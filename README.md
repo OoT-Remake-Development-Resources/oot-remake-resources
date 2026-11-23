@@ -21,6 +21,13 @@ The [OoT Remake Randomizer Research](https://github.com/OoT-Remake-Development-R
 
 This repository is intended to facilitate collaboration and knowledge-sharing between independent randomizer projects.
 
+
+## Emulation & Recompilation Research
+
+The [OoT Remake Emulation & Recompilation Research](https://github.com/vgdevz/oot-remake-emulation-and-recomp-research) repository serves as a shared workspace for research, documentation, resources, and development efforts related to emulation and recompilation of the Ocarina of Time remake.
+
+- [Emulation & Recompilation Research](https://github.com/YOUR-ORG/oot-remake-emulation-research)
+
 ## Contributing
 
 Community contributions, documentation, research, testing, and corrections are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
