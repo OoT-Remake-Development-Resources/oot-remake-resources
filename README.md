@@ -15,14 +15,14 @@ This organization aims to consolidate community knowledge, make technical resear
 - **Tools** – Utilities and development tools for the remake.
 - **Documentation** – Community-maintained knowledge and references.
 
-## Randomizer Research
+## Randomizer Resources
 
-The [OoT Remake Randomizer Research](https://github.com/OoT-Remake-Development-Resources/oot-remake-randomizer-research) repository serves as a shared workspace for randomizer-related research, documentation, logic investigations, testing, and resources.
+The [OoT Remake Randomizer Resources]([https://github.com/OoT-Remake-Development-Resources/oot-remake-randomizer-research](https://github.com/OoT-Remake-Development-Resources/oot-remake-randomizer-resources)) repository serves as a shared workspace for randomizer-related research, documentation, logic investigations, testing, and resources.
 
 This repository is intended to facilitate collaboration and knowledge-sharing between independent randomizer projects.
 
 
-## Emulation & Recompilation Research
+## Emulation & Recompilation Resources
 
 The [OoT Remake Emulation & Recompilation Research](https://github.com/OoT-Remake-Development-Resources/oot-remake-recomp-and-emulation-resources) repository serves as a shared workspace for research, documentation, resources, and development efforts related to emulation and recompilation of the Ocarina of Time remake.
 
