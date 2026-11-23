@@ -1,0 +1,123 @@
+
+name: Research Task
+description: Propose, track, or document an investigation into the OoT remake.
+title: "[Research]: "
+labels: ["research"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to propose or track a research investigation.
+        Document observations separately from hypotheses and conclusions.
+
+  - type: textarea
+    id: objective
+    attributes:
+      label: Research Objective
+      description: What are you trying to understand, identify, or establish?
+      placeholder: Describe the question this investigation aims to answer.
+    validations:
+      required: true
+
+  - type: textarea
+    id: background
+    attributes:
+      label: Background and Context
+      description: What is already known, and why is this investigation useful?
+      placeholder: Include relevant existing research, references, or related issues.
+    validations:
+      required: false
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: What is included in this investigation, and what is outside its scope?
+      placeholder: Define the boundaries of the investigation.
+    validations:
+      required: false
+
+  - type: textarea
+    id: methodology
+    attributes:
+      label: Methodology
+      description: How do you intend to investigate or verify this question?
+      placeholder: Describe the approach, tests, observations, or sources you intend to use.
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Outcome
+      description: What would a useful result of this investigation look like?
+      placeholder: Describe the expected deliverable or information.
+    validations:
+      required: false
+
+  - type: textarea
+    id: findings
+    attributes:
+      label: Findings and Observations
+      description: Update this section as the investigation progresses.
+      placeholder: |
+        Record observations, evidence, and results here.
+        Distinguish direct observations from interpretations.
+    validations:
+      required: false
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and References
+      description: Link or attach supporting material where appropriate.
+      placeholder: Screenshots, recordings, documentation, references, test results, etc.
+    validations:
+      required: false
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and Conditions
+      description: Record relevant version, configuration, and testing conditions.
+      placeholder: |
+        Game version/build:
+        Relevant settings:
+        Tools or software:
+        Other conditions:
+    validations:
+      required: false
+
+  - type: dropdown
+    id: verification
+    attributes:
+      label: Verification Status
+      description: How well established is the finding currently?
+      options:
+        - Not yet investigated
+        - In progress
+        - Unverified
+        - Partially verified
+        - Verified
+        - Disputed
+      default: 0
+    validations:
+      required: true
+
+  - type: textarea
+    id: limitations
+    attributes:
+      label: Limitations and Uncertainties
+      description: What remains unknown or could affect the results?
+      placeholder: Identify assumptions, limitations, or unanswered questions.
+    validations:
+      required: false
+
+  - type: textarea
+    id: related
+    attributes:
+      label: Related Issues and Projects
+      description: Link related issues, discussions, repositories, or projects.
+      placeholder: Add links where applicable.
+    validations:
+      required: false
