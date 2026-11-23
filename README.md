@@ -15,6 +15,12 @@ This organization aims to consolidate community knowledge, make technical resear
 - **Tools** – Utilities and development tools for the remake.
 - **Documentation** – Community-maintained knowledge and references.
 
+## Randomizer Research
+
+The [OoT Remake Randomizer Research](https://github.com/OoT-Remake-Development-Resources/oot-remake-randomizer-research) repository serves as a shared workspace for randomizer-related research, documentation, logic investigations, testing, and resources.
+
+This repository is intended to facilitate collaboration and knowledge-sharing between independent randomizer projects.
+
 ## Contributing
 
 Community contributions, documentation, research, testing, and corrections are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
